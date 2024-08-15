@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "543857228034",
+    "project_id": "fir-analyticsflutter-1209c",
+    "storage_bucket": "fir-analyticsflutter-1209c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543857228034:android:57d281208a7e13dd4d2a1b",
+        "android_client_info": {
+          "package_name": "com.example.firebase_analytics2024"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG1uGMUlPVBG6Fg49M4knBwbZcqd9wIu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
